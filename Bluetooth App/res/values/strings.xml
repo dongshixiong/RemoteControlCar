@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bluetooth Control</string>
+    <string name="action_settings">Settings</string>
+   <color name = "cyan">#A9F5F2</color>
+	
+    <string name="hello_world">Hello world!</string>
+   <string name="on">Turn On</string>
+   <string name="off">Turn Off</string>
+   <string name="Visible">Get Visible</string>
+   <string name="List">List Devices</string>
+  
+    <string name="Right"> →</string>
+    <string name="Left">←</string>
+    <string name="Up">↑</string>
+    <string name="Down">↓</string>
+    <string name="automatic">Automatic</string>
+    <string name="controller">Controller</string>
+      <string name="Search">Search</string>
+</resources>

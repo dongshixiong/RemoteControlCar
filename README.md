@@ -1,5 +1,5 @@
 # RemoteControlCar
-Matthew Ngai
+Car can move in all four directions. It turns when it approaches a wall.
 # demo
 Screenshots of the Android app controlling the car via Bluetooth.
 ![Alt text](/pictures/Screenshot_2014-09-05-21-39-53.png?)

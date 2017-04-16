@@ -10,7 +10,4 @@ Screenshots of the Android app controlling the car via Bluetooth. Searches and c
 ![Alt text](/pictures-video/Screenshot_2014-09-05-21-40-07.png?)
 
 
-#RC car
-
-
 -![Alt text](/pictures-video/IMG_20140905_214037.jpg?)
